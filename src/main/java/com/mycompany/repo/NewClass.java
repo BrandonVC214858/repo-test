@@ -9,5 +9,5 @@ package com.mycompany.repo;
  * @author brand
  */
 public class NewClass {
-    
+    int x;
 }
